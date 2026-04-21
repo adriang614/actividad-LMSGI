@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Ejemplo uso mkdocs
+site_url: https://adriang614.github.io/actividad-LMSGI/
+nav:
+    - Home: index.md
+    - Paginas:
+        - P01: segundo.md
+        - P02: tercero.md
+theme: readthedocs

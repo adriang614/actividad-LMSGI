@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Bienvenidos a mi Proyecto
+## Índice de contenidos
+Esta es mi página principal creada con **MkDocs**.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+### Características
+- Elemento de lista 1
+- Elemento de lista 2
 
-## Commands
+1. Primer paso
+2. Segundo paso
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+> "La documentación es el alma de un buen código."
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Puedes ver el código aquí: `print("Hello World")`
